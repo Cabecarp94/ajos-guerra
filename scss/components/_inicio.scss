@@ -1,13 +1,29 @@
-.navbar{
-    background-color: #231F20 !important;
-}
+@import '../base/variables';
 
-.container-fluid {
-    background-color: #231F20;
+// Header
+header{
+    img{
+    }
+    nav{
+        background-color: $bg-color-general !important;
+        div{
+            background-color: $bg-color-general;
+            a{
+                color: $color-text-withe;
+                font-size: 2rem !important;
+            }
+            button{
+            }
+            div{
+                ul{
+                    li{
+                        a{
+                            color: $color-text-withe;
+                            font-size: 2rem !important;
+                        }
+                    }
+                }
+            }
+        }
+    }  
 }
-
-a {
-    color: #FFFFFF;
-    font-size: 2rem !important;
-}
-
