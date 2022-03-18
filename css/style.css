@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: #231F20;
+}
+
+img {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+}
+
+.navbar {
+  background-color: #231F20 !important;
+}
+
+.container-fluid {
+  background-color: #231F20;
+}
+
+a {
+  color: #FFFFFF;
+  font-size: 2rem !important;
+}
+
+/*# sourceMappingURL=style.css.map */
