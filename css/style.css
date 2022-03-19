@@ -19,6 +19,12 @@ img {
   object-fit: cover;
 }
 
+#quienes-somos {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 header nav {
   background-color: #231F20 !important;
 }
@@ -32,6 +38,25 @@ header nav div a {
 header nav div div ul li a {
   color: #FFFFFF;
   font-size: 2rem !important;
+}
+
+#quienes-somos {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#quienes-somos {
+  background-color: #231F20;
+}
+#quienes-somos div {
+  padding-top: 10rem;
+  padding-bottom: 5rem;
+  max-width: 70%;
+}
+#quienes-somos div h1 {
+  color: #FFFFFF;
+  font-size: 4rem;
 }
 
 /*# sourceMappingURL=style.css.map */

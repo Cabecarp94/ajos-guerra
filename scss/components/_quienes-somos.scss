@@ -1,0 +1,19 @@
+@import '../base/variables';
+@import '../base/listas';
+@import '../base/extends';
+
+// Quienes somos
+
+#quienes-somos {
+    background-color: nth($colores, 1);
+    @extend %center;
+        div{
+            padding-top: 10rem;
+            padding-bottom: 5rem; 
+            max-width: 70%;
+            h1{
+                color: nth($colores, 2);
+                font-size: 4rem;
+            }
+        }
+}
