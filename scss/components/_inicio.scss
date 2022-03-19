@@ -5,26 +5,30 @@
 header{
     img{
     }
-    nav{
-        background-color: $bg-color-general !important;
-        div{
-            background-color: $bg-color-general;
-            a{
-                color: $color-text-withe;
-                font-size: 2rem !important;
-            }
-            button{
-            }
+    div{
+        display: flex;
+        justify-content: center;
+        nav{
+            background-color: $bg-color-general !important;
             div{
-                ul{
-                    li{
-                        a{
-                            color: $color-text-withe;
-                            font-size: 2rem !important;
+                background-color: $bg-color-general;
+                a{
+                    color: $color-text-withe;
+                    font-size: 3rem !important;
+                }
+                button{
+                }
+                div{
+                    ul{
+                        li{
+                            a{
+                                color: $color-text-withe;
+                                font-size: 3rem !important;
+                            }
                         }
                     }
                 }
             }
-        }
-    }  
+        } 
+    }
 }

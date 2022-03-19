@@ -7,13 +7,20 @@
 #quienes-somos {
     background-color: nth($colores, 1);
     @extend %center;
-        div{
-            padding-top: 10rem;
-            padding-bottom: 5rem; 
-            max-width: 70%;
+    .titulo{
+        padding-top: 10rem;
+        padding-bottom: 10rem; 
+        max-width: 70%;
             h1{
-                color: nth($colores, 2);
-                font-size: 4rem;
-            }
+            color: nth($colores, 2);
+            font-size: 3rem;
+            text-align: center;
         }
+    }
+    .card-img{
+        display: flex;
+        justify-items: center;
+        justify-content: space-around;
+
+    }
 }
