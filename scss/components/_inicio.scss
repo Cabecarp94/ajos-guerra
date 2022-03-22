@@ -33,13 +33,16 @@ header{
     div{
         display: flex;
         justify-content: center;
+        text-align: center;
+        position: sticky;
+        top: 0px;
         nav{
             background-color: $bg-color-general !important;
             div{
-                background-color: $bg-color-general;
+             background-color: $bg-color-general;
                 a{
-                    color: $color-text-withe;
-                    font-size: 2vw !important;
+                color: $color-text-withe;
+                font-size: 2vw !important;
                 }
                 button{
                 }
@@ -55,6 +58,6 @@ header{
                     }
                 }
             }
-        } 
+        }
     }
-}
+} 

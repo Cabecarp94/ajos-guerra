@@ -29,9 +29,31 @@
         div{
             padding-top: 8vw;
             img{
-                max-width: 20vw;
-                height: auto;
-                object-fit: cover;
+               @extend %img;
+            }
+        }
+    }
+    .titulo2{
+        @extend %center;
+        text-align: center;
+        div{
+            padding-top: 8vw;
+            width: 70%;
+            h2{
+                font-size: 1.9vw;
+                color: nth($colores, 2 );
+            }
+        }
+    }
+    .videos{
+        @extend %center;
+        text-align: center;
+        flex-direction: row !important;
+        div{
+            padding-top: 8vw;
+            width: 70%;
+            img{
+                @extend %img;
             }
         }
     }
