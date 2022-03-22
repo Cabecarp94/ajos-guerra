@@ -34,6 +34,7 @@ header div nav div a {
   font-size: 2vw !important;
 }
 header div nav div div ul li a {
+  margin: 2vw;
   color: #FFFFFF;
   font-size: 2vw !important;
 }
@@ -42,9 +43,33 @@ header div nav div div ul li a {
   padding-top: 5vw;
   padding-bottom: 5vw;
 }
-#quienes-somos .titulo h1 {
+#quienes-somos .titulo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+#quienes-somos .titulo div {
+  width: 70%;
+}
+#quienes-somos .titulo div h1 {
   font-size: 2vw;
   color: #FFFFFF;
+}
+#quienes-somos .imagenes {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+  text-align: center;
+}
+#quienes-somos .imagenes div {
+  padding-top: 8vw;
+}
+#quienes-somos .imagenes div img {
+  max-width: 20vw;
+  height: auto;
+  object-fit: cover;
 }
 
 /*# sourceMappingURL=style.css.map */

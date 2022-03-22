@@ -8,9 +8,31 @@
     padding-top: 5vw;
     padding-bottom: 5vw;
     .titulo{
-        h1{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        div{
+            width: 70%;
+            h1{
             font-size: 2vw;
             color: nth($colores, 2 );
+            }
+        }
+    }
+    .imagenes{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: row;
+        text-align: center;
+        div{
+            padding-top: 8vw;
+            img{
+                max-width: 20vw;
+                height: auto;
+                object-fit: cover;
+            }
         }
     }
 }
