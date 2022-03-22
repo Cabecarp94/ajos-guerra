@@ -1,62 +1,3 @@
-#quienes-somos {
-  display: flex;
-  justify-content: center;
-  flex-direction: column;
-  align-items: center;
-}
-
-header div {
-  display: flex;
-  justify-content: center;
-}
-header div nav {
-  background-color: #231F20 !important;
-}
-header div nav div {
-  background-color: #231F20;
-}
-header div nav div a {
-  color: #FFFFFF;
-  font-size: 3rem !important;
-}
-header div nav div div ul li a {
-  color: #FFFFFF;
-  font-size: 3rem !important;
-}
-
-#quienes-somos {
-  display: flex;
-  justify-content: center;
-  flex-direction: column;
-  align-items: center;
-}
-
-#quienes-somos {
-  background-color: #231F20;
-}
-#quienes-somos .titulo {
-  padding-top: 10rem;
-  padding-bottom: 10rem;
-  max-width: 70%;
-}
-#quienes-somos .titulo h1 {
-  color: #FFFFFF;
-  font-size: 3rem;
-  text-align: center;
-}
-#quienes-somos .card-img {
-  display: flex;
-  justify-items: center;
-  justify-content: space-around;
-}
-
-#quienes-somos {
-  display: flex;
-  justify-content: center;
-  flex-direction: column;
-  align-items: center;
-}
-
 * {
   margin: 0;
   padding: 0;
@@ -76,6 +17,34 @@ img {
   width: 100%;
   height: auto;
   object-fit: cover;
+}
+
+header div {
+  display: flex;
+  justify-content: center;
+}
+header div nav {
+  background-color: #231F20 !important;
+}
+header div nav div {
+  background-color: #231F20;
+}
+header div nav div a {
+  color: #FFFFFF;
+  font-size: 2vw !important;
+}
+header div nav div div ul li a {
+  color: #FFFFFF;
+  font-size: 2vw !important;
+}
+
+#quienes-somos {
+  padding-top: 5vw;
+  padding-bottom: 5vw;
+}
+#quienes-somos .titulo h1 {
+  font-size: 2vw;
+  color: #FFFFFF;
 }
 
 /*# sourceMappingURL=style.css.map */

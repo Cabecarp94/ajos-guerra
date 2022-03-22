@@ -1,7 +1,32 @@
 @import '../base/variables';
 @import '../base/extends';
+@import '../base/variables';
+@import '../base/listas';
+@import '../base/extends';
 
-// Header
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 62.5%;
+    scroll-behavior: smooth;
+}
+
+body{
+    background-color: nth($colores , 1);
+}
+
+img{
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+}
+
+
 header{
     img{
     }
@@ -14,7 +39,7 @@ header{
                 background-color: $bg-color-general;
                 a{
                     color: $color-text-withe;
-                    font-size: 3rem !important;
+                    font-size: 2vw !important;
                 }
                 button{
                 }
@@ -23,7 +48,7 @@ header{
                         li{
                             a{
                                 color: $color-text-withe;
-                                font-size: 3rem !important;
+                                font-size: 2vw !important;
                             }
                         }
                     }

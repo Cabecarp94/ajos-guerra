@@ -2,25 +2,15 @@
 @import '../base/listas';
 @import '../base/extends';
 
-// Quienes somos
 
-#quienes-somos {
-    background-color: nth($colores, 1);
-    @extend %center;
+
+#quienes-somos{
+    padding-top: 5vw;
+    padding-bottom: 5vw;
     .titulo{
-        padding-top: 10rem;
-        padding-bottom: 10rem; 
-        max-width: 70%;
-            h1{
-            color: nth($colores, 2);
-            font-size: 3rem;
-            text-align: center;
+        h1{
+            font-size: 2vw;
+            color: nth($colores, 2 );
         }
-    }
-    .card-img{
-        display: flex;
-        justify-items: center;
-        justify-content: space-around;
-
     }
 }

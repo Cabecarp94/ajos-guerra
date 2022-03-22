@@ -1,34 +1,14 @@
-// import components
-@import 'components/inicio.scss';
-@import 'components/quienes-somos.scss';
-@import 'components/productos.scss';
-@import 'components/exportacion.scss';
-@import 'components/contacto.scss';
-
-// import bases
-@import 'base/variables';
-@import 'base/listas';
+// Bases
 @import 'base/extends';
+@import 'base/listas';
+@import 'base/variables';
+
+// Components
+@import 'components/inicio';
+@import 'components/quienes-somos';
+@import 'components/productos';
+@import 'components/exportacion';
+@import 'components/contacto';
 
 
-*{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
-
-html {
-    font-size: 62.5%;
-    scroll-behavior: smooth;
-}
-
-body{
-    background-color: nth($colores , 1);
-}
-
-img{
-    width: 100%;
-    height: auto;
-    object-fit: cover;
-}
 
