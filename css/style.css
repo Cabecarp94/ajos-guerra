@@ -1,37 +1,37 @@
-#quienes-somos .videos, #quienes-somos .titulo2 {
+#productos .container-fluid .ajo2 .tituloajo2, #productos .container-fluid .ajo1 .tituloajo1, #productos, #quienes-somos .videos, #quienes-somos .titulo2 {
   display: flex;
   justify-content: center;
   flex-direction: column;
   align-items: center;
 }
 
-#quienes-somos .videos div img, #quienes-somos .imagenes div img {
+#productos .container-fluid .ajo2 div img, #productos .container-fluid .ajo1 div img, #quienes-somos .videos div img, #quienes-somos .imagenes div img {
   width: 20vw;
   height: auto;
   object-fit: cover;
 }
 
-#quienes-somos .videos, #quienes-somos .titulo2 {
+#productos .container-fluid .ajo2 .tituloajo2, #productos .container-fluid .ajo1 .tituloajo1, #productos, #quienes-somos .videos, #quienes-somos .titulo2 {
   display: flex;
   justify-content: center;
   flex-direction: column;
   align-items: center;
 }
 
-#quienes-somos .videos div img, #quienes-somos .imagenes div img {
+#productos .container-fluid .ajo2 div img, #productos .container-fluid .ajo1 div img, #quienes-somos .videos div img, #quienes-somos .imagenes div img {
   width: 20vw;
   height: auto;
   object-fit: cover;
 }
 
-#quienes-somos .videos, #quienes-somos .titulo2 {
+#productos .container-fluid .ajo2 .tituloajo2, #productos .container-fluid .ajo1 .tituloajo1, #productos, #quienes-somos .videos, #quienes-somos .titulo2 {
   display: flex;
   justify-content: center;
   flex-direction: column;
   align-items: center;
 }
 
-#quienes-somos .videos div img, #quienes-somos .imagenes div img {
+#productos .container-fluid .ajo2 div img, #productos .container-fluid .ajo1 div img, #quienes-somos .videos div img, #quienes-somos .imagenes div img {
   width: 20vw;
   height: auto;
   object-fit: cover;
@@ -81,14 +81,14 @@ header div nav div div ul li a {
   font-size: 2vw !important;
 }
 
-#quienes-somos .videos, #quienes-somos .titulo2 {
+#productos .container-fluid .ajo2 .tituloajo2, #productos .container-fluid .ajo1 .tituloajo1, #productos, #quienes-somos .videos, #quienes-somos .titulo2 {
   display: flex;
   justify-content: center;
   flex-direction: column;
   align-items: center;
 }
 
-#quienes-somos .videos div img, #quienes-somos .imagenes div img {
+#productos .container-fluid .ajo2 div img, #productos .container-fluid .ajo1 div img, #quienes-somos .videos div img, #quienes-somos .imagenes div img {
   width: 20vw;
   height: auto;
   object-fit: cover;
@@ -140,26 +140,52 @@ header div nav div div ul li a {
   padding-top: 8vw;
   width: 70%;
 }
-#quienes-somos .titulo2, #quienes-somos .videos {
+#productos .container-fluid .ajo2 .tituloajo2, #productos .container-fluid .ajo1 .tituloajo1, #productos, #quienes-somos .titulo2, #quienes-somos .videos {
   display: flex;
   justify-content: center;
   flex-direction: column;
   align-items: center;
 }
 
-#quienes-somos .imagenes div img, #quienes-somos .videos div img {
+#productos .container-fluid .ajo2 div img, #productos .container-fluid .ajo1 div img, #quienes-somos .imagenes div img, #quienes-somos .videos div img {
   width: 20vw;
   height: auto;
   object-fit: cover;
 }
 
-#productos .container {
-  display: grid;
-  grid-auto-columns: 1fr;
-  grid-template-columns: 1fr 1fr;
-  grid-template-rows: 1fr 1fr 1fr;
-  gap: 0px 0px;
-  background-color: #FFFFFF;
+#productos {
+  text-align: center;
+}
+#productos .container-fluid .ajo1 .tituloajo1 {
+  text-align: center;
+}
+#productos .container-fluid .ajo1 .tituloajo1 h3 {
+  font-size: 2vw;
+  padding-top: 4vw;
+  color: #FFFFFF;
+}
+#productos .container-fluid .ajo1 .tituloajo1 p {
+  color: #FFFFFF;
+  font-size: 1vw;
+  padding-top: 3vw;
+  width: 30vw;
+}
+#productos .container-fluid .ajo2 {
+  padding-top: 5vw;
+}
+#productos .container-fluid .ajo2 .tituloajo2 {
+  text-align: center;
+}
+#productos .container-fluid .ajo2 .tituloajo2 h3 {
+  font-size: 2vw;
+  padding-top: 4vw;
+  color: #FFFFFF;
+}
+#productos .container-fluid .ajo2 .tituloajo2 p {
+  color: #FFFFFF;
+  font-size: 1vw;
+  padding-top: 3vw;
+  width: 30vw;
 }
 
 /*# sourceMappingURL=style.css.map */
