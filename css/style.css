@@ -1,38 +1,41 @@
-#productos .container-fluid .ajo2 .tituloajo2, #productos .container-fluid .ajo1 .tituloajo1, #productos, #quienes-somos .videos, #quienes-somos .titulo2 {
+#productos .container-fluid .ajo3 .tituloajo3, #productos .container-fluid .ajo2 .tituloajo2, #productos .container-fluid .ajo1 .tituloajo1, #productos, #quienes-somos .videos, #quienes-somos .titulo2 {
   display: flex;
   justify-content: center;
   flex-direction: column;
   align-items: center;
+  text-align: center;
 }
 
-#productos .container-fluid .ajo2 div img, #productos .container-fluid .ajo1 div img, #quienes-somos .videos div img, #quienes-somos .imagenes div img {
-  width: 20vw;
+#productos .carrusel .carouselExampleControls .carousel-inner .carousel-item img, #productos .container-fluid .ajo3 div img, #productos .container-fluid .ajo2 div img, #productos .container-fluid .ajo1 div img, #quienes-somos .videos div img, #quienes-somos .imagenes div img {
+  width: 24vw;
   height: auto;
   object-fit: cover;
 }
 
-#productos .container-fluid .ajo2 .tituloajo2, #productos .container-fluid .ajo1 .tituloajo1, #productos, #quienes-somos .videos, #quienes-somos .titulo2 {
+#productos .container-fluid .ajo3 .tituloajo3, #productos .container-fluid .ajo2 .tituloajo2, #productos .container-fluid .ajo1 .tituloajo1, #productos, #quienes-somos .videos, #quienes-somos .titulo2 {
   display: flex;
   justify-content: center;
   flex-direction: column;
   align-items: center;
+  text-align: center;
 }
 
-#productos .container-fluid .ajo2 div img, #productos .container-fluid .ajo1 div img, #quienes-somos .videos div img, #quienes-somos .imagenes div img {
-  width: 20vw;
+#productos .carrusel .carouselExampleControls .carousel-inner .carousel-item img, #productos .container-fluid .ajo3 div img, #productos .container-fluid .ajo2 div img, #productos .container-fluid .ajo1 div img, #quienes-somos .videos div img, #quienes-somos .imagenes div img {
+  width: 24vw;
   height: auto;
   object-fit: cover;
 }
 
-#productos .container-fluid .ajo2 .tituloajo2, #productos .container-fluid .ajo1 .tituloajo1, #productos, #quienes-somos .videos, #quienes-somos .titulo2 {
+#productos .container-fluid .ajo3 .tituloajo3, #productos .container-fluid .ajo2 .tituloajo2, #productos .container-fluid .ajo1 .tituloajo1, #productos, #quienes-somos .videos, #quienes-somos .titulo2 {
   display: flex;
   justify-content: center;
   flex-direction: column;
   align-items: center;
+  text-align: center;
 }
 
-#productos .container-fluid .ajo2 div img, #productos .container-fluid .ajo1 div img, #quienes-somos .videos div img, #quienes-somos .imagenes div img {
-  width: 20vw;
+#productos .carrusel .carouselExampleControls .carousel-inner .carousel-item img, #productos .container-fluid .ajo3 div img, #productos .container-fluid .ajo2 div img, #productos .container-fluid .ajo1 div img, #quienes-somos .videos div img, #quienes-somos .imagenes div img {
+  width: 24vw;
   height: auto;
   object-fit: cover;
 }
@@ -81,15 +84,16 @@ header div nav div div ul li a {
   font-size: 2vw !important;
 }
 
-#productos .container-fluid .ajo2 .tituloajo2, #productos .container-fluid .ajo1 .tituloajo1, #productos, #quienes-somos .videos, #quienes-somos .titulo2 {
+#productos .container-fluid .ajo3 .tituloajo3, #productos .container-fluid .ajo2 .tituloajo2, #productos .container-fluid .ajo1 .tituloajo1, #productos, #quienes-somos .videos, #quienes-somos .titulo2 {
   display: flex;
   justify-content: center;
   flex-direction: column;
   align-items: center;
+  text-align: center;
 }
 
-#productos .container-fluid .ajo2 div img, #productos .container-fluid .ajo1 div img, #quienes-somos .videos div img, #quienes-somos .imagenes div img {
-  width: 20vw;
+#productos .carrusel .carouselExampleControls .carousel-inner .carousel-item img, #productos .container-fluid .ajo3 div img, #productos .container-fluid .ajo2 div img, #productos .container-fluid .ajo1 div img, #quienes-somos .videos div img, #quienes-somos .imagenes div img {
+  width: 24vw;
   height: auto;
   object-fit: cover;
 }
@@ -140,15 +144,16 @@ header div nav div div ul li a {
   padding-top: 8vw;
   width: 70%;
 }
-#productos .container-fluid .ajo2 .tituloajo2, #productos .container-fluid .ajo1 .tituloajo1, #productos, #quienes-somos .titulo2, #quienes-somos .videos {
+#productos .container-fluid .ajo3 .tituloajo3, #productos .container-fluid .ajo2 .tituloajo2, #productos .container-fluid .ajo1 .tituloajo1, #productos, #quienes-somos .titulo2, #quienes-somos .videos {
   display: flex;
   justify-content: center;
   flex-direction: column;
   align-items: center;
+  text-align: center;
 }
 
-#productos .container-fluid .ajo2 div img, #productos .container-fluid .ajo1 div img, #quienes-somos .imagenes div img, #quienes-somos .videos div img {
-  width: 20vw;
+#productos .carrusel .carouselExampleControls .carousel-inner .carousel-item img, #productos .container-fluid .ajo3 div img, #productos .container-fluid .ajo2 div img, #productos .container-fluid .ajo1 div img, #quienes-somos .imagenes div img, #quienes-somos .videos div img {
+  width: 24vw;
   height: auto;
   object-fit: cover;
 }
@@ -186,6 +191,24 @@ header div nav div div ul li a {
   font-size: 1vw;
   padding-top: 3vw;
   width: 30vw;
+}
+#productos .container-fluid .ajo3 {
+  padding-top: 5vw;
+}
+#productos .container-fluid .ajo3 .tituloajo3 {
+  text-align: center;
+}
+#productos .container-fluid .ajo3 .tituloajo3 h3 {
+  font-size: 2vw;
+  padding-top: 4vw;
+  color: #FFFFFF;
+}
+#productos .container-fluid .ajo3 .tituloajo3 p {
+  color: #FFFFFF;
+  font-size: 1vw;
+  padding-top: 3vw;
+  width: 30vw;
+  height: 30vw;
 }
 
 /*# sourceMappingURL=style.css.map */
