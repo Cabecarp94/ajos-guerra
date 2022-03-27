@@ -1,4 +1,4 @@
-#productos .container-fluid .ajo3 .tituloajo3, #productos .container-fluid .ajo2 .tituloajo2, #productos .container-fluid .ajo1 .tituloajo1, #productos, #quienes-somos .videos, #quienes-somos .titulo2 {
+#exportacion .logos, #exportacion, #productos .container-fluid .ajo3 .tituloajo3, #productos .container-fluid .ajo2 .tituloajo2, #productos .container-fluid .ajo1 .tituloajo1, #productos, #quienes-somos .videos, #quienes-somos .titulo2 {
   display: flex;
   justify-content: center;
   flex-direction: column;
@@ -7,26 +7,18 @@
 }
 
 #productos .carrusel .carouselExampleControls .carousel-inner .carousel-item img, #productos .container-fluid .ajo3 div img, #productos .container-fluid .ajo2 div img, #productos .container-fluid .ajo1 div img, #quienes-somos .videos div img, #quienes-somos .imagenes div img {
-  width: 24vw;
-  height: auto;
+  width: auto;
+  height: 24vw;
   object-fit: cover;
 }
 
-#productos .container-fluid .ajo3 .tituloajo3, #productos .container-fluid .ajo2 .tituloajo2, #productos .container-fluid .ajo1 .tituloajo1, #productos, #quienes-somos .videos, #quienes-somos .titulo2 {
-  display: flex;
-  justify-content: center;
-  flex-direction: column;
-  align-items: center;
-  text-align: center;
-}
-
-#productos .carrusel .carouselExampleControls .carousel-inner .carousel-item img, #productos .container-fluid .ajo3 div img, #productos .container-fluid .ajo2 div img, #productos .container-fluid .ajo1 div img, #quienes-somos .videos div img, #quienes-somos .imagenes div img {
-  width: 24vw;
-  height: auto;
+#exportacion .logos img {
+  width: auto;
+  height: 14vw;
   object-fit: cover;
 }
 
-#productos .container-fluid .ajo3 .tituloajo3, #productos .container-fluid .ajo2 .tituloajo2, #productos .container-fluid .ajo1 .tituloajo1, #productos, #quienes-somos .videos, #quienes-somos .titulo2 {
+#exportacion .logos, #exportacion, #productos .container-fluid .ajo3 .tituloajo3, #productos .container-fluid .ajo2 .tituloajo2, #productos .container-fluid .ajo1 .tituloajo1, #productos, #quienes-somos .videos, #quienes-somos .titulo2 {
   display: flex;
   justify-content: center;
   flex-direction: column;
@@ -35,8 +27,34 @@
 }
 
 #productos .carrusel .carouselExampleControls .carousel-inner .carousel-item img, #productos .container-fluid .ajo3 div img, #productos .container-fluid .ajo2 div img, #productos .container-fluid .ajo1 div img, #quienes-somos .videos div img, #quienes-somos .imagenes div img {
-  width: 24vw;
-  height: auto;
+  width: auto;
+  height: 24vw;
+  object-fit: cover;
+}
+
+#exportacion .logos img {
+  width: auto;
+  height: 14vw;
+  object-fit: cover;
+}
+
+#exportacion .logos, #exportacion, #productos .container-fluid .ajo3 .tituloajo3, #productos .container-fluid .ajo2 .tituloajo2, #productos .container-fluid .ajo1 .tituloajo1, #productos, #quienes-somos .videos, #quienes-somos .titulo2 {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+#productos .carrusel .carouselExampleControls .carousel-inner .carousel-item img, #productos .container-fluid .ajo3 div img, #productos .container-fluid .ajo2 div img, #productos .container-fluid .ajo1 div img, #quienes-somos .videos div img, #quienes-somos .imagenes div img {
+  width: auto;
+  height: 24vw;
+  object-fit: cover;
+}
+
+#exportacion .logos img {
+  width: auto;
+  height: 14vw;
   object-fit: cover;
 }
 
@@ -84,7 +102,7 @@ header div nav div div ul li a {
   font-size: 2vw !important;
 }
 
-#productos .container-fluid .ajo3 .tituloajo3, #productos .container-fluid .ajo2 .tituloajo2, #productos .container-fluid .ajo1 .tituloajo1, #productos, #quienes-somos .videos, #quienes-somos .titulo2 {
+#exportacion .logos, #exportacion, #productos .container-fluid .ajo3 .tituloajo3, #productos .container-fluid .ajo2 .tituloajo2, #productos .container-fluid .ajo1 .tituloajo1, #productos, #quienes-somos .videos, #quienes-somos .titulo2 {
   display: flex;
   justify-content: center;
   flex-direction: column;
@@ -93,8 +111,14 @@ header div nav div div ul li a {
 }
 
 #productos .carrusel .carouselExampleControls .carousel-inner .carousel-item img, #productos .container-fluid .ajo3 div img, #productos .container-fluid .ajo2 div img, #productos .container-fluid .ajo1 div img, #quienes-somos .videos div img, #quienes-somos .imagenes div img {
-  width: 24vw;
-  height: auto;
+  width: auto;
+  height: 24vw;
+  object-fit: cover;
+}
+
+#exportacion .logos img {
+  width: auto;
+  height: 14vw;
   object-fit: cover;
 }
 
@@ -144,7 +168,7 @@ header div nav div div ul li a {
   padding-top: 8vw;
   width: 70%;
 }
-#productos .container-fluid .ajo3 .tituloajo3, #productos .container-fluid .ajo2 .tituloajo2, #productos .container-fluid .ajo1 .tituloajo1, #productos, #quienes-somos .titulo2, #quienes-somos .videos {
+#exportacion .logos, #exportacion, #productos .container-fluid .ajo3 .tituloajo3, #productos .container-fluid .ajo2 .tituloajo2, #productos .container-fluid .ajo1 .tituloajo1, #productos, #quienes-somos .titulo2, #quienes-somos .videos {
   display: flex;
   justify-content: center;
   flex-direction: column;
@@ -153,17 +177,17 @@ header div nav div div ul li a {
 }
 
 #productos .carrusel .carouselExampleControls .carousel-inner .carousel-item img, #productos .container-fluid .ajo3 div img, #productos .container-fluid .ajo2 div img, #productos .container-fluid .ajo1 div img, #quienes-somos .imagenes div img, #quienes-somos .videos div img {
-  width: 24vw;
-  height: auto;
+  width: auto;
+  height: 24vw;
   object-fit: cover;
 }
 
-#productos {
-  text-align: center;
+#exportacion .logos img {
+  width: auto;
+  height: 14vw;
+  object-fit: cover;
 }
-#productos .container-fluid .ajo1 .tituloajo1 {
-  text-align: center;
-}
+
 #productos .container-fluid .ajo1 .tituloajo1 h3 {
   font-size: 2vw;
   padding-top: 4vw;
@@ -177,9 +201,6 @@ header div nav div div ul li a {
 }
 #productos .container-fluid .ajo2 {
   padding-top: 5vw;
-}
-#productos .container-fluid .ajo2 .tituloajo2 {
-  text-align: center;
 }
 #productos .container-fluid .ajo2 .tituloajo2 h3 {
   font-size: 2vw;
@@ -195,9 +216,6 @@ header div nav div div ul li a {
 #productos .container-fluid .ajo3 {
   padding-top: 5vw;
 }
-#productos .container-fluid .ajo3 .tituloajo3 {
-  text-align: center;
-}
 #productos .container-fluid .ajo3 .tituloajo3 h3 {
   font-size: 2vw;
   padding-top: 4vw;
@@ -208,7 +226,27 @@ header div nav div div ul li a {
   font-size: 1vw;
   padding-top: 3vw;
   width: 30vw;
-  height: 30vw;
+  text-align: center;
+}
+#productos .carrusel {
+  padding-top: 6vh;
+}
+#exportacion .expoh2 {
+  padding-top: 5vw;
+  width: 70%;
+}
+#exportacion .expoh2 h2 {
+  color: #FFFFFF;
+  font-size: 1.7vw;
+}
+#exportacion .logos {
+  flex-direction: row;
+  padding-top: 3vh;
+  flex-wrap: wrap;
+  width: 70%;
+}
+#exportacion .logos img {
+  margin: 3vw;
 }
 
 /*# sourceMappingURL=style.css.map */

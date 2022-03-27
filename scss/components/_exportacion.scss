@@ -1,0 +1,22 @@
+#exportacion{
+    @extend %center;
+    .expoh2{
+        padding-top: 5vw;
+        width: 70%;
+        h2{
+            color: nth($colores, 2);
+            font-size: 1.7vw;
+        }
+    }
+    .logos{
+        @extend %center;
+        flex-direction: row;
+        padding-top: 3vh;
+        flex-wrap: wrap;
+        width: 70%;
+        img{  
+            margin: 3vw;
+            @extend %logos;          
+        }
+    }
+}
