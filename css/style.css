@@ -1,4 +1,4 @@
-#exportacion .logos, #exportacion, #productos .container-fluid .ajo3 .tituloajo3, #productos .container-fluid .ajo2 .tituloajo2, #productos .container-fluid .ajo1 .tituloajo1, #productos, #quienes-somos .videos, #quienes-somos .titulo2 {
+#contacto, #exportacion .logos, #exportacion, #productos .container-fluid .ajo3 .tituloajo3, #productos .container-fluid .ajo2 .tituloajo2, #productos .container-fluid .ajo1 .tituloajo1, #productos, #quienes-somos .videos, #quienes-somos .titulo2 {
   display: flex;
   justify-content: center;
   flex-direction: column;
@@ -6,19 +6,19 @@
   text-align: center;
 }
 
-#productos .carrusel .carouselExampleControls .carousel-inner .carousel-item img, #productos .container-fluid .ajo3 div img, #productos .container-fluid .ajo2 div img, #productos .container-fluid .ajo1 div img, #quienes-somos .videos div img, #quienes-somos .imagenes div img {
+#exportacion .imgexpo img, #productos .carrusel .carouselExampleControls .carousel-inner .carousel-item img, #productos .container-fluid .ajo3 div img, #productos .container-fluid .ajo2 div img, #productos .container-fluid .ajo1 div img, #quienes-somos .videos div img, #quienes-somos .imagenes div img {
   width: auto;
   height: 24vw;
   object-fit: cover;
 }
 
-#exportacion .logos img {
+#contacto .redes div a img, #exportacion .logos img {
   width: auto;
-  height: 14vw;
+  height: 6vw;
   object-fit: cover;
 }
 
-#exportacion .logos, #exportacion, #productos .container-fluid .ajo3 .tituloajo3, #productos .container-fluid .ajo2 .tituloajo2, #productos .container-fluid .ajo1 .tituloajo1, #productos, #quienes-somos .videos, #quienes-somos .titulo2 {
+#contacto, #exportacion .logos, #exportacion, #productos .container-fluid .ajo3 .tituloajo3, #productos .container-fluid .ajo2 .tituloajo2, #productos .container-fluid .ajo1 .tituloajo1, #productos, #quienes-somos .videos, #quienes-somos .titulo2 {
   display: flex;
   justify-content: center;
   flex-direction: column;
@@ -26,19 +26,19 @@
   text-align: center;
 }
 
-#productos .carrusel .carouselExampleControls .carousel-inner .carousel-item img, #productos .container-fluid .ajo3 div img, #productos .container-fluid .ajo2 div img, #productos .container-fluid .ajo1 div img, #quienes-somos .videos div img, #quienes-somos .imagenes div img {
+#exportacion .imgexpo img, #productos .carrusel .carouselExampleControls .carousel-inner .carousel-item img, #productos .container-fluid .ajo3 div img, #productos .container-fluid .ajo2 div img, #productos .container-fluid .ajo1 div img, #quienes-somos .videos div img, #quienes-somos .imagenes div img {
   width: auto;
   height: 24vw;
   object-fit: cover;
 }
 
-#exportacion .logos img {
+#contacto .redes div a img, #exportacion .logos img {
   width: auto;
-  height: 14vw;
+  height: 6vw;
   object-fit: cover;
 }
 
-#exportacion .logos, #exportacion, #productos .container-fluid .ajo3 .tituloajo3, #productos .container-fluid .ajo2 .tituloajo2, #productos .container-fluid .ajo1 .tituloajo1, #productos, #quienes-somos .videos, #quienes-somos .titulo2 {
+#contacto, #exportacion .logos, #exportacion, #productos .container-fluid .ajo3 .tituloajo3, #productos .container-fluid .ajo2 .tituloajo2, #productos .container-fluid .ajo1 .tituloajo1, #productos, #quienes-somos .videos, #quienes-somos .titulo2 {
   display: flex;
   justify-content: center;
   flex-direction: column;
@@ -46,15 +46,15 @@
   text-align: center;
 }
 
-#productos .carrusel .carouselExampleControls .carousel-inner .carousel-item img, #productos .container-fluid .ajo3 div img, #productos .container-fluid .ajo2 div img, #productos .container-fluid .ajo1 div img, #quienes-somos .videos div img, #quienes-somos .imagenes div img {
+#exportacion .imgexpo img, #productos .carrusel .carouselExampleControls .carousel-inner .carousel-item img, #productos .container-fluid .ajo3 div img, #productos .container-fluid .ajo2 div img, #productos .container-fluid .ajo1 div img, #quienes-somos .videos div img, #quienes-somos .imagenes div img {
   width: auto;
   height: 24vw;
   object-fit: cover;
 }
 
-#exportacion .logos img {
+#contacto .redes div a img, #exportacion .logos img {
   width: auto;
-  height: 14vw;
+  height: 6vw;
   object-fit: cover;
 }
 
@@ -102,7 +102,7 @@ header div nav div div ul li a {
   font-size: 2vw !important;
 }
 
-#exportacion .logos, #exportacion, #productos .container-fluid .ajo3 .tituloajo3, #productos .container-fluid .ajo2 .tituloajo2, #productos .container-fluid .ajo1 .tituloajo1, #productos, #quienes-somos .videos, #quienes-somos .titulo2 {
+#contacto, #exportacion .logos, #exportacion, #productos .container-fluid .ajo3 .tituloajo3, #productos .container-fluid .ajo2 .tituloajo2, #productos .container-fluid .ajo1 .tituloajo1, #productos, #quienes-somos .videos, #quienes-somos .titulo2 {
   display: flex;
   justify-content: center;
   flex-direction: column;
@@ -110,15 +110,15 @@ header div nav div div ul li a {
   text-align: center;
 }
 
-#productos .carrusel .carouselExampleControls .carousel-inner .carousel-item img, #productos .container-fluid .ajo3 div img, #productos .container-fluid .ajo2 div img, #productos .container-fluid .ajo1 div img, #quienes-somos .videos div img, #quienes-somos .imagenes div img {
+#exportacion .imgexpo img, #productos .carrusel .carouselExampleControls .carousel-inner .carousel-item img, #productos .container-fluid .ajo3 div img, #productos .container-fluid .ajo2 div img, #productos .container-fluid .ajo1 div img, #quienes-somos .videos div img, #quienes-somos .imagenes div img {
   width: auto;
   height: 24vw;
   object-fit: cover;
 }
 
-#exportacion .logos img {
+#contacto .redes div a img, #exportacion .logos img {
   width: auto;
-  height: 14vw;
+  height: 6vw;
   object-fit: cover;
 }
 
@@ -168,7 +168,7 @@ header div nav div div ul li a {
   padding-top: 8vw;
   width: 70%;
 }
-#exportacion .logos, #exportacion, #productos .container-fluid .ajo3 .tituloajo3, #productos .container-fluid .ajo2 .tituloajo2, #productos .container-fluid .ajo1 .tituloajo1, #productos, #quienes-somos .titulo2, #quienes-somos .videos {
+#contacto, #exportacion .logos, #exportacion, #productos .container-fluid .ajo3 .tituloajo3, #productos .container-fluid .ajo2 .tituloajo2, #productos .container-fluid .ajo1 .tituloajo1, #productos, #quienes-somos .titulo2, #quienes-somos .videos {
   display: flex;
   justify-content: center;
   flex-direction: column;
@@ -176,15 +176,15 @@ header div nav div div ul li a {
   text-align: center;
 }
 
-#productos .carrusel .carouselExampleControls .carousel-inner .carousel-item img, #productos .container-fluid .ajo3 div img, #productos .container-fluid .ajo2 div img, #productos .container-fluid .ajo1 div img, #quienes-somos .imagenes div img, #quienes-somos .videos div img {
+#exportacion .imgexpo img, #productos .carrusel .carouselExampleControls .carousel-inner .carousel-item img, #productos .container-fluid .ajo3 div img, #productos .container-fluid .ajo2 div img, #productos .container-fluid .ajo1 div img, #quienes-somos .imagenes div img, #quienes-somos .videos div img {
   width: auto;
   height: 24vw;
   object-fit: cover;
 }
 
-#exportacion .logos img {
+#contacto .redes div a img, #exportacion .logos img {
   width: auto;
-  height: 14vw;
+  height: 6vw;
   object-fit: cover;
 }
 
@@ -247,6 +247,52 @@ header div nav div div ul li a {
 }
 #exportacion .logos img {
   margin: 3vw;
+}
+#exportacion .imgexpo {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+#exportacion .imgexpo img {
+  margin: 3vw;
+}
+
+#contacto .map {
+  display: flex;
+  word-wrap: wrap;
+  flex-direction: column;
+  width: 70%;
+}
+#contacto .map p {
+  color: #FFFFFF;
+  font-size: 1.5vw;
+}
+#contacto .map div {
+  padding-top: 3vw;
+}
+#contacto .map div iframe {
+  min-height: 20vw;
+  object-fit: cover;
+}
+#contacto .redes p {
+  padding-top: 3vw;
+  color: #FFFFFF;
+  font-size: 1.5vw;
+}
+#contacto .redes div {
+  display: flex;
+  word-wrap: wrap;
+}
+#contacto .redes div a img {
+  margin: 3vw;
+}
+
+footer {
+  background-color: #FFFFFF;
+}
+footer h4 {
+  text-align: center;
+  font-size: 1vw;
 }
 
 /*# sourceMappingURL=style.css.map */

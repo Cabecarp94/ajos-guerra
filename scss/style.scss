@@ -10,5 +10,11 @@
 @import 'components/exportacion';
 @import 'components/contacto';
 
-
+footer{
+    background-color: nth($colores, 2 );
+    h4{
+        text-align: center;
+        font-size: 1vw;
+    }
+}
 

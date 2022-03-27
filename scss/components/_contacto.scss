@@ -1,0 +1,43 @@
+
+
+#contacto{
+    @extend %center;
+    .map{
+        display: flex;
+        word-wrap: wrap;
+        flex-direction: column;
+        width: 70%;
+        p{
+            color: nth($colores, 2 );
+            font-size: 1.5vw;
+        }
+        div{
+            padding-top: 3vw;
+            iframe{
+                min-height: 20vw;
+                object-fit: cover;
+            }            
+        }
+    }
+    .form{
+    
+    }
+    .redes{
+        p{
+            padding-top: 3vw;
+            color: nth($colores, 2 );
+            font-size: 1.5vw;
+        }
+        div{
+            display: flex;
+            word-wrap: wrap;
+            a{
+                img{
+                @extend %logos;
+                margin: 3vw;
+                }
+            }
+        }
+    }
+}
+

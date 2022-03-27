@@ -19,4 +19,13 @@
             @extend %logos;          
         }
     }
+    .imgexpo{
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+        img{
+            @extend %img;
+            margin: 3vw;
+        }
+    }
 }
