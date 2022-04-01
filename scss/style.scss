@@ -1,9 +1,9 @@
-// Bases
+// base
 @import 'base/extends';
 @import 'base/listas';
 @import 'base/variables';
 
-// Components
+// componentes
 @import 'components/inicio';
 @import 'components/quienes-somos';
 @import 'components/productos';
@@ -17,4 +17,3 @@ footer{
         font-size: 1vw;
     }
 }
-
